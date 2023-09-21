@@ -4,6 +4,8 @@ body {
     background: linear-gradient(70deg, blue, purple, pink);
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 h1 {
     text-align: center;
     font-size: 100px;
